@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_rich_text_markdowns",
+  "info": {
+    "displayName": "Rich Text Markdown",
+    "icon": "book"
+  },
+  "options": {},
+  "attributes": {
+    "richTextmarkdown": {
+      "type": "richtext"
+    }
+  }
+}
